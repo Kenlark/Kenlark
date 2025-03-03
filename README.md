@@ -46,4 +46,3 @@
 <h3 align="left">Projects :</h3>
 <hr>
 <p> - <a href="https://rentappdwwm.netlify.app/">Rent-App :</a> A vehicle rental website built with MongoDB, React, Vite, Node.js, and Express.</p>
-<p> - <a href="https://bamaloc.netlify.app/">Bamaloc :</a> Bamaloc is a showcase website built with React and Vite.</p>
