@@ -42,6 +42,7 @@
 
 
 - 📫 How to reach me **kerachikenzo@gmail.com**
+- Discord : kenlark
 
 <h3 align="left">Projects :</h3>
 <hr>
