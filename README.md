@@ -48,6 +48,6 @@ I'm a CDA student and full-stack developer passionate about JavaScript, React, a
 
 |  **Year** |**Degree**|**Institution**|
 |----|----|----|
-|2024 (2 month)|Web Developer and Integrator |Simplon - Valenciennes - France|
-|2024-2025 (8 month)|Web and Mobile Web Developer (DWWM) |Sofip - Rouvignies - France|
-|2025|Application Designer and Developer (CDA) (in progress) |Simplon - Valenciennes - France|
+|April 2024 - May 2024|Web Developer and Integrator |Simplon - Valenciennes - France|
+|May 2024 - January 2025|Web and Mobile Web Developer (DWWM) |Sofip - Rouvignies - France|
+|February 2025 - Present|Application Designer and Developer (CDA) (in progress) |Simplon - Valenciennes - France|
