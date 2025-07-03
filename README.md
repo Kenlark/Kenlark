@@ -8,6 +8,7 @@ I'm a CDA student and full-stack developer passionate about JavaScript, React, a
 ![HTML](https://img.shields.io/badge/Code-HTML-E34F26?logo=html5)
 ![CSS](https://img.shields.io/badge/Code-CSS-1572B6?logo=css3)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-F7DF1E?logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/Code-TypeScript-3178C6?logo=TypeScript)
 
 ### Frontend :
 ![React](https://img.shields.io/badge/Frontend-React-1572B6?logo=react)
