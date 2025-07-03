@@ -21,6 +21,7 @@ I'm a CDA student and full-stack developer passionate about JavaScript, React, a
 ### Backend :
 ![Node.js](https://img.shields.io/badge/Backend-Node.js-339933?logo=node.js)
 ![Express.js](https://img.shields.io/badge/Backend-Express.js-000000?logo=express)
+![NestJS](https://img.shields.io/badge/Backend-NestJS-E0234E?logo=nestjs)
 
 ### Other Tools :
 ![Git](https://img.shields.io/badge/Version_Control-Git-F05032?logo=git)
